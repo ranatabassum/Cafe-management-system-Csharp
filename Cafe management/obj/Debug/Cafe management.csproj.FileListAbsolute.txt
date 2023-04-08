@@ -1,0 +1,67 @@
+C:\Users\Khurshed Alam Sifat\source\repos\Cafe management\Cafe management\bin\Debug\Cafe management.exe.config
+C:\Users\Khurshed Alam Sifat\source\repos\Cafe management\Cafe management\bin\Debug\Cafe management.exe
+C:\Users\Khurshed Alam Sifat\source\repos\Cafe management\Cafe management\bin\Debug\Cafe management.pdb
+C:\Users\Khurshed Alam Sifat\source\repos\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.AssemblyReference.cache
+C:\Users\Khurshed Alam Sifat\source\repos\Cafe management\Cafe management\obj\Debug\Cafe_management.Properties.Resources.resources
+C:\Users\Khurshed Alam Sifat\source\repos\Cafe management\Cafe management\obj\Debug\Cafe_management.WelcomePage.resources
+C:\Users\Khurshed Alam Sifat\source\repos\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.GenerateResource.cache
+C:\Users\Khurshed Alam Sifat\source\repos\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.CoreCompileInputs.cache
+C:\Users\Khurshed Alam Sifat\source\repos\Cafe management\Cafe management\obj\Debug\Cafe management.exe
+C:\Users\Khurshed Alam Sifat\source\repos\Cafe management\Cafe management\obj\Debug\Cafe management.pdb
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\bin\Debug\Cafe management.exe.config
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\bin\Debug\Cafe management.exe
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\bin\Debug\Cafe management.pdb
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\obj\Debug\Cafe_management.Properties.Resources.resources
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\obj\Debug\Cafe_management.StaffPage.resources
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\obj\Debug\Cafe_management.WelcomePage.resources
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.GenerateResource.cache
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.CoreCompileInputs.cache
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\obj\Debug\Cafe management.exe
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\obj\Debug\Cafe management.pdb
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\bin\Debug\Guna.UI2.dll
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.CopyComplete
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\obj\Debug\Cafe_management.UserControlStaffPlaceOrder.resources
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.AssemblyReference.cache
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\obj\Debug\Cafe_management.UserControlStaffProfile.resources
+C:\Users\Khurshed Alam Sifat\Desktop\Cafe management\Cafe management\obj\Debug\Cafe_management.SignUpPage.resources
+E:\OOP2\Projects\Cafe management\Cafe management\bin\Debug\Cafe management.exe.config
+E:\OOP2\Projects\Cafe management\Cafe management\bin\Debug\Cafe management.exe
+E:\OOP2\Projects\Cafe management\Cafe management\bin\Debug\Cafe management.pdb
+E:\OOP2\Projects\Cafe management\Cafe management\bin\Debug\Guna.UI2.dll
+E:\OOP2\Projects\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.AssemblyReference.cache
+E:\OOP2\Projects\Cafe management\Cafe management\obj\Debug\Cafe_management.Properties.Resources.resources
+E:\OOP2\Projects\Cafe management\Cafe management\obj\Debug\Cafe_management.SignUpPage.resources
+E:\OOP2\Projects\Cafe management\Cafe management\obj\Debug\Cafe_management.StaffPage.resources
+E:\OOP2\Projects\Cafe management\Cafe management\obj\Debug\Cafe_management.UserControlStaffPlaceOrder.resources
+E:\OOP2\Projects\Cafe management\Cafe management\obj\Debug\Cafe_management.UserControlStaffProfile.resources
+E:\OOP2\Projects\Cafe management\Cafe management\obj\Debug\Cafe_management.WelcomePage.resources
+E:\OOP2\Projects\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.GenerateResource.cache
+E:\OOP2\Projects\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.CoreCompileInputs.cache
+E:\OOP2\Projects\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.CopyComplete
+E:\OOP2\Projects\Cafe management\Cafe management\obj\Debug\Cafe management.exe
+E:\OOP2\Projects\Cafe management\Cafe management\obj\Debug\Cafe management.pdb
+E:\OOP2\Projects\Cafe management\Cafe management\bin\Debug\MetroFramework.dll
+E:\OOP2\Projects\Cafe management\Cafe management\obj\Debug\Cafe_management.AdminHomePage.resources
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\bin\Debug\Cafe management.exe.config
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\bin\Debug\Cafe management.exe
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\bin\Debug\Cafe management.pdb
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\bin\Debug\Guna.UI2.dll
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe_management.AdminHomePage.resources
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe_management.EmployeePage.resources
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe_management.Properties.Resources.resources
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe_management.SignUpPage.resources
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe_management.StaffPage.resources
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe_management.UserControlPlaceOrder.resources
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe_management.UserControlStaffProfile.resources
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe_management.WelcomePage.resources
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.GenerateResource.cache
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.CoreCompileInputs.cache
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.CopyComplete
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe management.exe
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe management.pdb
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe_management.UserControlEmployeeInfo.resources
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe_management.UserControlFoodInfo.resources
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe_management.UserControlOrderInfo.resources
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe management.csproj.AssemblyReference.cache
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe_management.UserPage.resources
+D:\c#\oo2\Cafe management (2)\Cafe management\Cafe management\obj\Debug\Cafe_management.PasswordChange.resources
